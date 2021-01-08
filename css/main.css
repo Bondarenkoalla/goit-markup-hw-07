@@ -1066,9 +1066,6 @@ form b {
 }
 
 .accept-text {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
